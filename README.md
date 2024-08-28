@@ -1,6 +1,5 @@
-# Welcome to GitHub Desktop!
+Welcome to this folder!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-leaaldenhoven
+Please open the preprocessing_guide.ipynb file to see the report.
+Usually, this report is interactive, making it possible for the reader to test pieces of code, however the data files used to do this were too large to upload to github.
+However, the visuals are all still present, so enjoy the notebook.
